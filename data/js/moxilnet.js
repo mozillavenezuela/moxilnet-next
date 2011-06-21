@@ -104,7 +104,7 @@ function enviar_formulario_captcha(evento) {
 function abrir_link(evento) {
   evento.preventDefault();
   direccion = $(this).attr('href');
-  postMessage(direccion);
+  self.postMessage(direccion);
 }
 
 $('#tipo_mensaje').selectoul();
