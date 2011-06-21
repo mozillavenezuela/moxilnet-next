@@ -1,0 +1,9 @@
+{
+    "name": "moxilnet-next", 
+    "license": "GPL 3.0", 
+    "author": "Leonard Camacho", 
+    "version": "0.1", 
+    "fullName": "moxilnet-next", 
+    "id": "jid0-B0tbzcW1aUDxyY17jOlrQqYmXDY", 
+    "description": "Extension basada en la extensión Moxilnet pero creada bajo el ambiente de Software para Desarrollar Complementos o Add-on SDK"
+}
